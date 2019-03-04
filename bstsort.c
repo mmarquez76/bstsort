@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 // Matt Taylor, PID 5848958
 //
 // This program takes input from stdin or from a file, and then uses a BST sort
 // to sort the lines of the file alphabetically and output them.
 // The number next to each line of output tells how many times that line appeared.
 //
+=======
+// This program takes input from stdin or from a file, and then uses a BST sort
+// to sort the lines of the file alphabetically and output them.
+// The number next to each line of output tells how many times that line appeared.
+>>>>>>> updating comments in main
 // I affirm that I wrote this program myself without any help from any 
 // other people or sources from the internet.
 
